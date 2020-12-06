@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autonomous vehicle uni projects
+title: Solar powered aircraft research project
 description: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aeronautical uni projects
+title: Image Segmentation Project
 description: 
 ---
 

@@ -2,7 +2,7 @@
 layout: project
 title: Terrain Learning Vehicle
 description: Description for Seo
-summary: Some summary of project
+summary: Self-supervised AI framework used to train an off road vehicle to learn it's terrain from experience.
 category: Master's Project
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Formula Student
+title: Building a Racing Car
 description: 
 summary: Some summary of project
 category: IMeche Formula Student competition
