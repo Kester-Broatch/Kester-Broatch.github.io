@@ -2,11 +2,10 @@
 layout: project
 title: Terrain Learning Vehicle
 description: Description for Seo
-summary: Self-supervised AI framework used to train an off road vehicle to learn it's terrain from experience.
+summary: Self-supervised robot that learns from experience
 category: Master's Project
 ---
 
-### Overview
 <img src="/assets/terrain-learning-vehicle/f1-robots.png" alt='Offroad Robots' style="width: 20%; float: right; margin: 5px;"/>
 
 This project proposes a self-supervised machine learning architecture which samples and learns a vehicle and terrain relationship from experience for an off road vehicle. The findings from this research are currently being written up for publication, and the original thesis can be downloaded 
