@@ -8,8 +8,8 @@ category: Master's Project
 
 <img src="/assets/terrain-learning-vehicle/f1-robots.png" alt='Offroad Robots' style="width: 20%; float: right; margin: 5px;"/>
 
-This project proposes a self-supervised machine learning architecture which samples and learns a vehicle and terrain relationship from experience for an off road vehicle. The findings from this research are currently being written up for publication, and the original thesis can be downloaded 
-[here](/assets/terrain-learning-vehicle/Learning_Vehicle_Dynamics_Models_by_Self_Supervised_Learning.pdf){:target="_blank"}
+This project proposes a self-supervised machine learning architecture which samples and learns a vehicle and terrain relationship from experience for an off road vehicle. The original thesis can be downloaded from
+[here](/assets/terrain-learning-vehicle/Learning_Vehicle_Dynamics_Models_by_Self_Supervised_Learning.pdf){:target="_blank"} and the source code and run instructions can be found [here](https://github.com/Kester-Broatch/Terrain-Learning){:target="_blank"}.
 
 The motivation for this project is that mobile robots are no longer confined to just factory floors anymore and are increasingly being used in unstructured and unknown environments, such as urban, farmland and even other planets! (see figure 1) As such there is a requirement for accurate and robust vehicle-terrain prediction mechanisms.
 
