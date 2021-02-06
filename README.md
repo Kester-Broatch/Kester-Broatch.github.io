@@ -1,20 +1,11 @@
-# Ultra - Super fast Jekyll theme
+# My personal website
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+This is the source code for my website https://www.kesterbroatch.com/ which is hosted from github-pages.
 
-### Key features
+It was originally forked from the [ultra](https://github.com/ronv/ultra) jekyll theme.
 
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+To test this website locally follow the steps to install jekyll and bundler [here](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) and build using: 
 
-![Screenshot](ultra.png)
-
-# Demo [here](https://ultra-jekyll.netlify.com/)
+```
+bundle exec jekyll serve
+```
